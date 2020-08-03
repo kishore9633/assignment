@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "newuser",
+    "password": "User@123",
+    "database": "sequelize",
+    "host": "localhost",
+    
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "waiyaki",
+    "password": null,
+    "database": "todos-test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
